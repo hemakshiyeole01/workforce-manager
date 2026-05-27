@@ -1,6 +1,6 @@
 # Backend — Workforce Manager
 
-Built with Spring Boot 4, Spring Security, JWT, Spring Data JPA, and MySQL.
+Built with Spring Boot 4, Spring Security, JWT, Spring Data JPA, and MySQL using H2 database.
 
 ## Folder Structure
 
